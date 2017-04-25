@@ -4,6 +4,9 @@ h1 {
 	text-align: center;
 	font-size: 24px;
 }
+hr{
+	width: 200px;
+}
 
 p { 
 	font-family: Arial, sans-serif;
@@ -11,7 +14,7 @@ p {
 	font-size: 20px;
 }
 
-body {
-	background: white;
+body{
+	text-align: center;
 	font-family: Arial, sans-serif;
 }
